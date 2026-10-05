@@ -1,0 +1,5 @@
+node_modules/
+dist/
+juried/jury/*/
+!juried/jury/calibration/
+test/e2e/shots/

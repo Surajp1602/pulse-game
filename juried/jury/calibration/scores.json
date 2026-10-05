@@ -1,0 +1,8 @@
+{
+  "A": { "design": 0.5, "usability": 0.3, "creativity": 0.2, "content": 0.0, "overall": 0.3 },
+  "B": { "design": 7.0, "usability": 6.3, "creativity": 7.4, "content": 7.5, "overall": 6.92 },
+  "C": { "design": 5.5, "usability": 4.0, "creativity": 6.5, "content": 1.0, "overall": 4.8 },
+  "D": { "design": 5.3, "usability": 6.2, "creativity": 6.6, "content": 7.0, "overall": 6.0 },
+  "E": { "design": 6.8, "usability": 6.5, "creativity": 6.3, "content": 7.3, "overall": 6.66 },
+  "F": { "design": 7.4, "usability": 6.6, "creativity": 7.6, "content": 7.0, "overall": 7.2 }
+}
